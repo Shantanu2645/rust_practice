@@ -1,0 +1,1 @@
+/home/username/Documents/rust_practice/conditional_loops_with_while/target/debug/conditional_loops_with_while: /home/username/Documents/rust_practice/conditional_loops_with_while/src/main.rs

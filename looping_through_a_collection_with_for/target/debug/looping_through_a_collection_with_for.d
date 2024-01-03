@@ -1,0 +1,1 @@
+/home/username/Documents/rust_practice/looping_through_a_collection_with_for/target/debug/looping_through_a_collection_with_for: /home/username/Documents/rust_practice/looping_through_a_collection_with_for/src/main.rs
